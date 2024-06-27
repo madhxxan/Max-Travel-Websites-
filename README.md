@@ -13,8 +13,9 @@
     <h2>Getting Started</h2>
      <h3>Prerequisites</h3>
     <ul>
-        <li>Node.js (v14 or higher)</li>
-        <li>npm (v6 or higher)</li>
+        <li>HTML </li>
+        <li>CSS</li>
+         <li>Java Script </li>
     </ul>
     <h3>Installation</h3>
     <ol>
@@ -47,7 +48,7 @@
     <h2>License</h2>
     <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
     <h2>Contact</h2>
-    <p>For any inquiries or feedback, please contact <a href="mailto:yourname@example.com">yourname@example.com</a>.</p>
+    <p>For any inquiries or feedback, please contact <a href="mailto:smadhavan139@gmail.com">smadhavan139@gmail.com</a>.</p>
     <hr>
     <p>Happy travels!</p>
 
